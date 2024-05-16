@@ -17,14 +17,12 @@ Para visualizar a página em seu navegador, siga os passos abaixo:
 ```
 git clone https://github.com/FelipeSoller/Stage02_Landing_Page_03.git
 ```
-3. Clone o repositório para o seu ambiente local:
+2. Navegue até o diretório do projeto:
 ```
 cd Stage02_Landing_Page_03
 ```
-3. Clone o repositório para o seu ambiente local:
-```
-Abra o arquivo index.html no seu navegador preferido.
-```
+3. Abra o arquivo index.html no seu navegador preferido
+   
 <h1 align="center">
     <img alt="Web" src="https://github.com/FelipeSoller/Stage02_Landing_Page_03/blob/main/Landing%20Page%2003.png" width="900px">
 </h1>
